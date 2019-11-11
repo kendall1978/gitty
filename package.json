@@ -1,0 +1,25 @@
+{
+  "name": "gitty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendall1978/gitty.git"
+  },
+  "keywords": [
+    "kr"
+  ],
+  "author": "kr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendall1978/gitty/issues"
+  },
+  "homepage": "https://github.com/kendall1978/gitty#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
